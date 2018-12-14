@@ -1,0 +1,5 @@
+1. Which Category has the most installs? - GAME
+2. What are the top 5 apps in each category?
+3. What, if any, is the correlation between the size and the number of installs?
+4. What are the top 5 apps based on average rating (rating/reviews)?
+5. What, if any, is the correlation between rating and the date the app was last updated?
